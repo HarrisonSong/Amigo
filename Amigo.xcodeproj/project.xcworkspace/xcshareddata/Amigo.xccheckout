@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CAB9E2D5-7BC7-4E11-81F7-7479DB7761B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Amigo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80AAC153-68E7-4C6E-BFE7-D868B2C3C1A7</key>
+		<string>https://github.com/NUS-CS3217-AY1213/final-project-group-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Amigo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80AAC153-68E7-4C6E-BFE7-D868B2C3C1A7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NUS-CS3217-AY1213/final-project-group-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80AAC153-68E7-4C6E-BFE7-D868B2C3C1A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80AAC153-68E7-4C6E-BFE7-D868B2C3C1A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>final-project-group-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

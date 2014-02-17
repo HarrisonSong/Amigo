@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Memoriz": {
+            "applicationId": "gGjGCPb30DYQCUgDhrcJDfYVWy34iMbtuNblKHMl", 
+            "masterKey": "pPQlP5OusIfXjJdJi5qYVHtXhYtL23OwJ9s9NauY"
+        }, 
+        "_default": {
+            "link": "Memoriz"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.2"
+    }
+}
